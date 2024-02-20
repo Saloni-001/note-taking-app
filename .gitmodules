@@ -1,0 +1,3 @@
+[submodule "NoteProject/NoteProject/note-taking-app"]
+	path = NoteProject/NoteProject/note-taking-app
+	url = https://github.com/Saloni-001/note-taking-app.git
